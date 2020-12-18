@@ -51,13 +51,13 @@ python window.py
 
 ## 执行效果
 图形化界面
-![image-20201212161743464](https://vehicle4cm.oss-cn-beijing.aliyuncs.com/typoraimgsimage-20201212161743464.png)
+![image-20201212161743464](images/main.png)
 
 ## 捐助
 如果您觉得我的项目帮助了您，您可以给我一点小小的鼓励，您的鼓励将会是我进一步创作的动力！😁😁😁
 
-![alipayx](https://vehicle4cm.oss-cn-beijing.aliyuncs.com/typoraimgsalipayx.jpg)
+![alipayx](images/wx.jpg)
 
 
 
-![wxpayx](https://vehicle4cm.oss-cn-beijing.aliyuncs.com/typoraimgswxpayx.jpg)
+![wxpayx](images/ali.jpg)

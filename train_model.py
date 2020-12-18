@@ -108,7 +108,7 @@ def train(epochs, is_transfer=False):
 
 
 if __name__ == '__main__':
-    # train(epochs=10, is_transfer=True)
+    train(epochs=10, is_transfer=True)
     train(epochs=5, is_transfer=False)
     # test()
 
